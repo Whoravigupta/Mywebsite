@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Me - My Website</title>
+</head>
+<body>
+	<main>
+		<h2>My Background</h2>
+		<p>Here is my interests & Goals</p>
+		<h2>My Interests</h2>
+		<p>To read novels about financial.</p>
+		<h2>My Goals</h2>
+		<p>Be a good software engineer and get good position in company.</p>
+	</main>
+</body>
+</html>
